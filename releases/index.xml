@@ -6,7 +6,25 @@
     <description>Recent content in Releases on Apache Camel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://camel.apache.org/releases/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://camel.apache.org/releases/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Camel-K 1.5.0</title>
+      <link>https://camel.apache.org/releases/k-1.5.0/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://camel.apache.org/releases/k-1.5.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camel-K Runtime release 1.8.0</title>
+      <link>https://camel.apache.org/releases/k-runtime-1.8.0/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://camel.apache.org/releases/k-runtime-1.8.0/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Camel-K 1.4.1</title>
       <link>https://camel.apache.org/releases/k-1.4.1/</link>

@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://camel.apache.org/releases/k-1.4.1/</loc>
-    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+    <loc>https://camel.apache.org/releases/k-1.5.0/</loc>
+    <lastmod>2021-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://camel.apache.org/releases/k-runtime-1.8.0/</loc>
+    <lastmod>2021-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://camel.apache.org/</loc>
-    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://camel.apache.org/releases/</loc>
+    <lastmod>2021-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://camel.apache.org/releases/k-1.4.1/</loc>
     <lastmod>2021-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://camel.apache.org/blog/</loc>
